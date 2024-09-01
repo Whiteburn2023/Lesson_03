@@ -14,6 +14,10 @@ public class Main {
         int rur = sc.nextInt();
         System.out.println("По курсу в долларах: " + rur * 0.010967);
         System.out.println("По курсу в евро: " + rur * 0.009924);
+        /*
+       System.out.println();
+         */
+
 
 
     }
